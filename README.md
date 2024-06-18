@@ -9,4 +9,4 @@ https://interstellar2424.github.io/Nether-Portal/
 <hr>
 <h1>Thank You! </h1>
 <br>
-Thank You fr Using my Webpage
+Thank You for Using my Webpage
